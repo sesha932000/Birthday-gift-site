@@ -1,0 +1,89 @@
+body{
+    text-align: center;
+    font-family: 'Happy Monkey', cursive;
+    font-weight: 20px;
+    background: linear-gradient(#a2d2ff, #EFB0C9);
+    color: #ffffff;
+    text-shadow: 0px 0px 5px #000000;
+  
+  
+}
+#image-person{
+    width: 190px;
+    /* clip-path: circle(40%); */
+    border-radius: 50%;
+    border: 6px solid #efb0ef;
+}
+#age{
+    margin: 10px 10px 20px 10px;
+    background-color: #efb0ef;
+    padding: 5px 10px;
+    border-radius: 5px;
+    
+    
+} .dob{
+    
+    margin: 5px;
+    background-color: #efb0ef;
+    padding: 5px 10px;
+    border-radius: 5px;
+    
+}
+#header{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+ 
+}
+.gift-section{
+    margin-top: 40px;
+}
+.wish{
+    margin: 20px;
+    font-size: xx-large;
+}
+.info-text{
+    margin-bottom: 10px;
+}
+.gift{
+    margin: 0 auto;
+    width: 400px;
+    height: 400px;
+    border: 3px solid #ffffff;
+    border-radius: 5px;
+    background-image: url("/image/giftcover.jpg");
+    background-size: cover;
+}
+
+#happy-hover:hover{
+    background-image: url("/image/gif/giphy-clap.webp");
+    background-size: cover;
+}
+#hot-hover:hover{
+    background-image: url("/image/gif/giphy-dance.webp");
+    background-size: cover;
+}
+#genius-hover:hover{
+    background-image: url("/image/gif/Brainstorming.gif");
+    background-size: cover;
+}
+#kind-hover:hover{
+    background-image: url("/image/gif/giphy.gif");
+    background-size: cover;
+}
+
+
+#gift-img-cheers:hover{
+    background-image: url("/image/gif/Happy-Birthday.gif");
+    background-size: cover;
+}
+
+
+
+
+
+
+
+
+
